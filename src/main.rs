@@ -6,11 +6,12 @@ mod _5loop;
 mod _6slice;
 mod _7struct;
 mod _8enum;
+mod _9path;
 
 fn main() {
    //_1printIn::print_in();//1打印信息
    //_2rand_demo::crat_rand();
    //_3string_parse::read_to_int();
-   //_5loop::my_loop();
+   _5loop::my_loop();
 }
 
